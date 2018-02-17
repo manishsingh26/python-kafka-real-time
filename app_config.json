@@ -1,0 +1,111 @@
+{
+  "lead_data": {
+    "file": "/home/msingh/Documents/PycharmProjects/kafka/data/Lead_df.csv",
+    "filter_criteria": ["", ""]
+  },
+  "elastic_search": {
+    "host": "localhost",
+    "port": "9200",
+    "index": {
+      "create": {
+        "status": false,
+        "index": "employdata",
+        "type": "employ",
+        "field_id": "employ_id",
+        "csv_file": "/home/msingh/Documents/PycharmProjects/kafka/data/Employ_df.csv",
+        "request_body": {
+          "settings": {
+            "number_of_shards": 1,
+            "number_of_replicas": 0
+          },
+          "mapping": {
+            "employ": {
+              "properties": {
+                "employ_id": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_name": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_gender": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_designation": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_level": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_branch": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "branch_target": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_age": {
+                  "index": "analyzed",
+                  "type": "integer"
+                },
+                "employ_individual_target": {
+                  "index": "analyzed",
+                  "type": "integer"
+                },
+                "employ_doj": {
+                  "index": "analyzed",
+                  "type": "date"
+                },
+                "employ_graduation": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_post_graduation": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_conversion_ratio": {
+                  "index": "analyzed",
+                  "type": "integer"
+                },
+                "employ_territory_locality": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_territory_district": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_territory_city": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_territory_state": {
+                  "index": "analyzed",
+                  "type": "text"
+                },
+                "employ_territory_pin": {
+                  "index": "analyzed",
+                  "type": "integer"
+                },
+                "employ_territory_lat": {
+                  "index": "analyzed",
+                  "type": "float"
+                },
+                "employ_territory_log": {
+                  "index": "analyzed",
+                  "type": "float"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+employ_id,employ_name,employ_gender,employ_designation,employ_level,employ_branch,branch_target,employ_age,employ_individual_target,employ_doj,employ_graduation,employ_post_graduation,employ_conversion_ratio,employ_total_collection,employ_territory_locality,employ_territory_district,employ_territory_city,employ_territory_state,employ_territory_pin,employ_territory_lat,employ_territory_log
+EC100002,amit dasari, m,sales_executive,level-6,telangana,2000000,31,1000000,2015-03-04,tier-2,tier-3,97,600000,kandikatkur,karim nagar,karimnagar,telangana,505401,17.448,78.5913
+EC100003,mandal maharaja, m,sales_executive,level-6,telangana,2000000,30,1000000,2014-02-27,tier-1,tier-3,90,880000,mallapur,karim nagar,karimnagar,telangana,505401,17.448,78.5913
+EC100004,shalu barad, f,sales_executive,level-6,telangana,2000000,24,1000000,2015-01-01,tier-3,tier-1,79,650000,manwada,karim nagar,karimnagar,telangana,505401,17.448,78.5913
+EC100005,sagar jindal, m,sales_executive,level-6,telangana,2000000,24,1000000,2014-01-01,tier-2,-,78,710000,nagulamallial,karim nagar,karimnagar,telangana,505401,17.448,78.5913
+EC100006,suman gummadi, f,sales_executive,level-6,telangana,2000000,31,1000000,2014-01-14,tier-3,tier-3,91,860000,pothur,karim nagar,karimnagar,telangana,505401,17.448,78.5913
+EC100007,khusbhu jhaveri, f,sales_executive,level-6,telangana,2000000,31,1000000,2014-02-05,tier-1,tier-3,67,890000,ambaripet,karim nagar,karimnagar,telangana,505526,17.448,78.5913
+EC100008,nadhim chatterjee, m,sales_executive,level-6,telangana,2000000,25,1000000,2015-04-16,tier-1,tier-2,97,930000,atmakur,karim nagar,karimnagar,telangana,505526,17.448,78.5913
+EC100009,sharma bhaduri, m,sales_executive,level-6,telangana,2000000,24,1000000,2014-05-26,tier-2,-,95,670000,godhalpet,karim nagar,karimnagar,telangana,505526,17.448,78.5913
+EC100010,sapna muppavarapu, f,sales_executive,level-6,telangana,2000000,25,1000000,2014-04-13,tier-2,-,99,810000,gullakota,karim nagar,karimnagar,telangana,505526,17.448,78.5913
+EC100011,nazim gadhavi, m,sales_executive,level-6,telangana,2000000,27,1000000,2014-01-20,tier-3,tier-1,66,950000,jagadevpet,karim nagar,karimnagar,telangana,505526,17.448,78.5913
+EC100012,pooja nischal, f,sales_executive,level-6,telangana,2000000,30,1000000,2014-02-07,tier-1,tier-1,61,690000,kapparaopet,karim nagar,karimnagar,telangana,505526,17.448,78.5913
+EC100013,mukti oberoi, f,sales_executive,level-6,telangana,2000000,24,1000000,2015-01-23,tier-3,tier-3,95,990000,kishanraopet,karim nagar,karimnagar,telangana,505526,17.448,78.5913
+EC100015,singh munshi, m,sales_executive,level-6,telangana,2000000,28,1000000,2014-04-18,tier-1,tier-3,60,820000,kondapur,karim nagar,karimnagar,telangana,505526,17.448,78.5913
+EC100016,gupta bangi, f,sales_executive,level-6,telangana,2000000,27,1000000,2014-03-16,tier-2,tier-3,68,830000,kothapet,karim nagar,karimnagar,telangana,505526,17.448,78.5913
+EC100017,brijesh bhagwat, m,sales_executive,level-6,uttarakhand,400000,31,200000,2015-04-08,tier-1,tier-2,61,154000,banghat,pauri garhwal,pauri,uttarakhand,246172,30.106,78.7082
+EC100018,salaman parkhi, m,sales_executive,level-6,uttarakhand,400000,24,200000,2014-04-16,tier-3,tier-3,63,190000,barkholu,pauri garhwal,pauri,uttarakhand,246172,30.106,78.7082
+EC100019,rohini khan, f,sales_executive,level-6,uttarakhand,400000,30,200000,2015-02-12,tier-3,tier-1,90,170000,bariyun,pauri garhwal,pauri,uttarakhand,246172,30.106,78.7082
+EC100020,dheeraj agashe, m,sales_executive,level-6,uttarakhand,400000,24,200000,2014-03-18,tier-1,-,93,146000,dandatalla,pauri garhwal,pauri,uttarakhand,246172,30.106,78.7082
+EC100021,sima basak, f,sales_executive,level-6,uttarakhand,400000,30,200000,2015-01-11,tier-2,tier-2,99,140000,kandakhal kauriya,pauri garhwal,pauri,uttarakhand,246172,30.106,78.7082
